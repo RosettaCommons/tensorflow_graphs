@@ -1,2 +1,2 @@
-# trRosetta
-trRosetta model binaries for using the trRosetta protocol within Rosetta proper
+# trRosetta binaries repository
+trRosetta model binaries for using the trRosetta protocol within Rosetta proper.  These need to be in the Rosetta database, in `database/protocol_data/tensorflow_graphs/trRosetta`.
