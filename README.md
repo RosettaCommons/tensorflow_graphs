@@ -6,8 +6,13 @@ A submodule containing Tensorflow models for various machine learning-based prot
 
 * Created as "trRosetta" repo on 21 Jan 2021 by Vikram K. Mulligan, Flatiron Institute (vmulligan@flatironinstitute.org).
 * Renamed to "tensorflow\_graphs" repo on 22 Jan 2021.
+* VKM added deepFRI neural network on 27 April 2021.
 
 ## Contents
+
+### deepFRI
+
+A neural network combining an LSTM (long short-term memory) model with a deep graph convolutional neural network to predict protein function from sequence and structure.  Sequence is processed by the LSTM language model, and structure by the deep graph convolutional neural network.
 
 ### trRosetta
 
