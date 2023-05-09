@@ -12,3 +12,7 @@ A submodule containing Tensorflow models for various machine learning-based prot
 ### trRosetta
 
 A machine learning model that takes an input multiple sequence alignment and produces an output estimate of pairwise residue distances and angles, useful for protein structure prediction.
+
+### predict_PTMs
+Several machine learning models that take structural and sequence information as input features and predict various post-translational modifications, meant to be used with Rosettas `PTMPredictionMetric`.
+
