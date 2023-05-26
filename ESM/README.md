@@ -1,6 +1,7 @@
 # ESM
 Contains the Evolutionary Scaling Modeling language model family from the FAIR team, adapted from PyTorch to Tensorflow by Huggingface.
 The base model included here should be automatically downloaded when you compile with `extras=tensorflow` or `extras=tensorflow_gpu`.
+Larger models will be downloaded once you use a metric/mover that requires them.
 
 ## References
 
