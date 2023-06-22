@@ -16,3 +16,6 @@ A machine learning model that takes an input multiple sequence alignment and pro
 ### predict_PTMs
 Several machine learning models that take structural and sequence information as input features and predict various post-translational modifications, meant to be used with Rosettas `PTMPredictionMetric`.
 
+
+### ESM
+Contains the Evolutionary Scaling Modeling language model family from the FAIR team, adapted from PyTorch to Tensorflow by Huggingface.
